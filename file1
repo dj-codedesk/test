@@ -38,4 +38,4 @@ print 'ARRAY: ',mylist
 start=0
 end=len(mylist)-1
 quicksort(mylist, start, end)
-print "The sorted Array is:", mylist
+print "The sorted Array is in edited file:", mylist
